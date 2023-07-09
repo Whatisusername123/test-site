@@ -1,6 +1,11 @@
 img{
-    max-width: 50px;
-max-height: 50px;
+    max-width: 700px;
+max-height: 700px;
+}
+h1{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    color: yellow;
 }
 h2{
     font-size: 40px;
@@ -8,7 +13,12 @@ h2{
     color: aqua;
 }
 p{
-    font-size: 20px;
+    font-size: 25px;
     color: blue;
     font-family: 'Times New Roman', Times, serif;
+}
+li{
+    font-size: 25px;
+    color: gray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
