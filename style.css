@@ -1,0 +1,25 @@
+body{
+    background-color: brown;
+}
+h1{
+    font-size: 25px;
+    color: aqua;
+}
+h2{
+    font-size: 25px;
+    color: orange;
+}
+.big{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    color: red;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.lowercase{
+    text-transform: lowercase;
+}
+span{
+    color: blueviolet;
+}
